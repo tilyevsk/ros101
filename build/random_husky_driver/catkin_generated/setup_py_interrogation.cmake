@@ -1,0 +1,6 @@
+set(random_husky_driver_SETUP_PY_VERSION "0.0.0")
+set(random_husky_driver_SETUP_PY_SCRIPTS "")
+set(random_husky_driver_SETUP_PY_PACKAGES "random_husky_driver")
+set(random_husky_driver_SETUP_PY_PACKAGE_DIRS "src/random_husky_driver")
+set(random_husky_driver_SETUP_PY_MODULES "")
+set(random_husky_driver_SETUP_PY_MODULE_DIRS "")

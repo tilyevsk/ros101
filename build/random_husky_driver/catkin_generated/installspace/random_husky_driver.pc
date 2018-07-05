@@ -1,0 +1,8 @@
+prefix=/home/tom/ros101/install
+
+Name: random_husky_driver
+Description: Description of random_husky_driver
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tom/ros101/install/lib 
+Requires: 

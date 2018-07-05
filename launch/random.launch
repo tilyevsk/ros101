@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="random_husky_driver" name="random_driver" type="random_driver" />
+	<node pkg="random_husky_driver" name="odom_graph" type="odom_graph" />
+
+</launch>

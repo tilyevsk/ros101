@@ -1,0 +1,8 @@
+prefix=/home/tom/ros101/devel
+
+Name: agitr
+Description: Description of agitr
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tom/ros101/devel/lib 
+Requires: 

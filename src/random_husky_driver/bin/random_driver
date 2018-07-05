@@ -1,0 +1,4 @@
+#! /usr/bin/env python
+import random_husky_driver.random_driver
+if __name__== '__main__':
+	random_husky_driver.random_driver.random_walk()
